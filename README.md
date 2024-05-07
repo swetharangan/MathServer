@@ -31,7 +31,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 
-'''
+```
 
 <!DOCTYPE html>
 <html>
@@ -118,7 +118,7 @@ h1
 </html>
 
 
-'''
+```
 
 
 
